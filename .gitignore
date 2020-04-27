@@ -1,0 +1,7 @@
+# .gitign ore
+
+*.vscode
+
+*.bak
+
+./node_modules
