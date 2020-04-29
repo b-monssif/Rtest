@@ -1,4 +1,10 @@
 First line into first.txt
+<<<<<<< HEAD
 Second line into first.txt 
 
 
+=======
+Second line into first.txt
+
+ajouter des ligne depuis git hub
+>>>>>>> 8999cd9aa6f0824093c3f679352c0dd64050fcd0
